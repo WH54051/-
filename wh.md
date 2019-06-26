@@ -34,18 +34,6 @@
 	node文件包
 	sql数据库(lin.sql)
 
-	##路由接口 数据库 没有完善 
-
-
-	##更新中!!!!!
-
-
-
-
-
-
-
-
 
 
 	##lin 数据库
@@ -59,3 +47,5 @@
 	##details details.html
 	##details-two details-two.html
 	##details-three details-three.html
+	
+	##更新中!!!!!
